@@ -13,13 +13,14 @@ pip install seaborn
 ```
 
 ## Features
+```bash
 Metrics
 GPGR: Goals Per Game Ratio
 APM: Assists Per Match
 GAR: Goals - Assists Ratio
 TC: Total contributions (Assists and Goals)
 CPM: Contribution Per Match
-
+```
 
 
 ## Players data
