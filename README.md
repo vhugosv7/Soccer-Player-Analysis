@@ -232,7 +232,8 @@ Chart with markers
 ![image](https://github.com/user-attachments/assets/fdac6f52-7e49-4a1f-ac3e-0da17e129a91)
 
 Colormap
-![image](https://github.com/user-attachments/assets/9e03cec6-8913-43ef-a2cc-e5ee8a96b164)
+![image](https://github.com/user-attachments/assets/b8bae659-f7ad-4bce-90b5-9165cb03d027)
+
 
 
 ## Files
