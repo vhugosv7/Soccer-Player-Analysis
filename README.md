@@ -12,6 +12,15 @@ pip install numpy
 pip install seaborn
 ```
 
+## Features
+Metrics
+GPGR: Goals Per Game Ratio
+APM: Assists Per Match
+GAR: Goals - Assists Ratio
+TC: Total contributions (Assists and Goals)
+CPM: Contribution Per Match
+
+
 
 ## Players data
 The list of the players into the data CSV; these names are allowed to be used in the global variables.
