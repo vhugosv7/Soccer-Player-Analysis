@@ -220,6 +220,19 @@ grouped_df = pd.read_csv('Players.csv').groupby(['Players','Position'])[['Matche
 ).sort_values(by='Seasons', ascending=True)
 
 ```
+## Expected outputs
+
+Bar chart comparison
+![image](https://github.com/user-attachments/assets/4fada864-feab-4280-a574-afa9b00dbd30)
+
+Pie chart by player
+![image](https://github.com/user-attachments/assets/754e280e-2889-4ed5-93b9-78da3551a45f)
+
+Chart with markers
+![image](https://github.com/user-attachments/assets/fdac6f52-7e49-4a1f-ac3e-0da17e129a91)
+
+Colormap
+![image](https://github.com/user-attachments/assets/9e03cec6-8913-43ef-a2cc-e5ee8a96b164)
 
 
 ## Files
