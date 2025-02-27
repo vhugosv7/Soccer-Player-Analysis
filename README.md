@@ -213,7 +213,8 @@ player_2 = "Virgil van Dijk"
 
 # Grouping players stats
 
-''' Grouping by including Players, teams, position and seasons (You could only include Players and position to get the total stats by player)'''
+''' Grouping by including Players, teams, position and seasons
+(You could only include Players and position to get the total stats by player)'''
 grouped_df = pd.read_csv('Players.csv').groupby(['Players','Position'])[['Matches', 'Goals', 'Assists']].sum().reset_index(
 ).sort_values(by='Seasons', ascending=True)
 ```
