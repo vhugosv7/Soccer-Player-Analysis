@@ -12,9 +12,8 @@ pip install numpy
 pip install seaborn
 ```
 
-## Features
+## Metrics
 ```bash
-Metrics
 GPGR: Goals Per Game Ratio
 APM: Assists Per Match
 GAR: Goals - Assists Ratio
